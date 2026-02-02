@@ -1,12 +1,10 @@
 # Sprouts HTML Email Demo
-
-![Sprouts Email Preview](/full-email-preview.webp)
-
 **Hand-coded HTML email template - Sprouts Farmers Market style.** Tables only, inline CSS.
-
 ⚠️ **Demo/Portfolio Use Only** - Recreation for demonstration. Not official Sprouts template.<br> 
 
-- Live Site URL: [()]
+- Live Site URL: [(http://sprouts.html.email.demo/)]
+
+![Sprouts Email Preview](/full-email-preview.webp)
 
 Built with:
 - HTML5 
