@@ -1,11 +1,12 @@
-# GoFinance-Newsletter-Email
-Custom hand-coded HTML inline CSS newsletter Email.<br>
-Custom unbranded created all content, layout, logo, and idea.<br> 
-Photo by <a href="https://unsplash.com/de/@generalbytes?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">GENERAL BYTES</a> on <a href="https://unsplash.com/de/fotos/ein-display-in-einem-geschaft-mit-einem-bitcoin-automaten-davor-n0TeMHrPJ38?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+# Sprouts HTML Email Demo
 
-![](email-preview.jpeg)
+![Sprouts Email Preview](/full-email-preview.webp)
 
-- Live Site URL: [(https://ryoshi1001.github.io/GoFinance-Newsletter-Email/)]
+**Hand-coded HTML email template - Sprouts Farmers Market style.** Tables only, inline CSS.
+
+⚠️ **Demo/Portfolio Use Only** - Recreation for demonstration. Not official Sprouts template.<br> 
+
+- Live Site URL: [()]
 
 Built with:
 - HTML5 
@@ -13,16 +14,27 @@ Built with:
 - Responsive-Design
 - Ghost Tables
 - Visual Studio Code
-- Figma
   
 The designs were created to the following widths:
 - Max-width: 600px
   
 ## Colors
-Blue: #0052ff
-Black: #0a0b0e, #000000
-Gray: #a4a8af, #a4a8af
+Email green background: 
+#017933
+
+Small dark text color
+#194420
+
+Large text color: 
+#1E6F31
+
+Light text color: 
+#FFF4E0
+
+Dark footer text: 
+#333333
 
 ## Typography
-- Family: [Roboto]([https://fonts.google.com/specimen/Be+Vietnam+Pro](https://fonts.google.com/specimen/Roboto))
+- Family: Verdana
+
 
